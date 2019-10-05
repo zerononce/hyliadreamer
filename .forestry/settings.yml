@@ -21,11 +21,13 @@ sections:
 - type: document
   path: src/_data/styleguide.js
   label: Style Guide
+- type: document
+  path: src/_data/navigation.json
+  label: Navigation
   match: "**/*"
 - type: document
   path: src/_data/site.json
   label: 'Site json Settings '
-  match: "**/*"
 upload_dir: src/images
 public_path: "/images"
 front_matter_path: ''
