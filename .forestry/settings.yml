@@ -18,6 +18,10 @@ sections:
 - type: document
   path: src/_data/tokens.json
   label: Theme settings
+- type: document
+  path: src/_data/styleguide.js
+  label: Style Guide
+  match: "**/*"
 upload_dir: src/images
 public_path: "/images"
 front_matter_path: ''
