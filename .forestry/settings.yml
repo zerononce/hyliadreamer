@@ -22,6 +22,10 @@ sections:
   path: src/_data/styleguide.js
   label: Style Guide
   match: "**/*"
+- type: document
+  path: src/_data/site.json
+  label: 'Site json Settings '
+  match: "**/*"
 upload_dir: src/images
 public_path: "/images"
 front_matter_path: ''
