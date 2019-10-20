@@ -9,7 +9,6 @@ sections:
 - type: document
   path: src/admin/config.yml
   label: Config
-  match: "**/*"
 - type: heading
   label: Content
 - type: directory
