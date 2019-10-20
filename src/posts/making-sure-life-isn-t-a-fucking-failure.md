@@ -1,7 +1,8 @@
 ---
 date: 2019-10-20
 title: Making Sure Life Isn't a Fucking Failure
-tags: []
+tags:
+- PraytoGod
 
 ---
 \### Breaking Down the $BAT Token Sale, Completely: A Lesson in Analyzing Ethereum Token Crowdsales (Pt. 1)
